@@ -74,7 +74,7 @@ export default function AppLayout() {
           name="(tabs)"
           options={{
             drawerLabel: 'Dashboard',
-            title: 'Dashboard',
+            title: '',
             headerShown: true,
           }}
         />
